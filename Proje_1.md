@@ -1,6 +1,8 @@
 # Insertion-Sort-Projesi-Patika.dev
 Insertion Sort Projesi Patika.dev
 
+www.patika.dev
+
 Proje 1
 
 [22,27,16,2,18,6] -> Insertion Sort
